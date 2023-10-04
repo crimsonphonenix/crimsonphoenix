@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crimsonphonenix
+- 👋 Hi, I’m @crimsonphoenix
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps projects 
